@@ -11,6 +11,7 @@ export const Auth = () => {
   return (
     <div className="">
       <h1>Authentication</h1>
+
       <SignInButton mode="modal" />
       <SignUpButton mode="modal" />
       <SignOutButton />
