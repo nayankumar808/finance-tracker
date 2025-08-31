@@ -6,7 +6,7 @@ import {
   BrowserRouter,
 } from "react-router-dom";
 import { Dashboard } from "./pages/dashboard";
-import { Auth } from "./pages/auth/index";
+import { Auth } from "./pages/auth/Index";
 
 function App() {
   return (
